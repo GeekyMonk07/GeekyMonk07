@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anmol
 - 👀 Coding Enthusiat having a keen interest in learning new Tech
-- 🌱 Flutter Developer
-- 🌐 Currently learning MERN Stack
+- 🌱 Flutter Developer | MERN Developer
+- 🌐 Currently learning DevOps and Next.js
 - 📫 You can reach me @thelearninggeek07@gmail.com
 - 💜 Noobie Gamer
 <!---
